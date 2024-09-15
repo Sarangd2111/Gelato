@@ -8,10 +8,10 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path='/Gelato/' element={<Home />} />
-          {/* <Route path='/Gelato/about' element={<About />} />
-          <Route path='/Gelato/skills' element={<Skills />} />
-          <Route path='/Gelato/projects' element={<Project />} />
-          <Route path='/Gelato/contact' element={<Contact />} /> */}
+          {/* <Route path='/Gelato/page2' element={<page2 />} />
+          <Route path='/Gelato/page3' element={<page3 />} />
+          <Route path='/Gelato/page4' element={<page4 />} />
+          <Route path='/Gelato/page5' element={<page5 />} /> */}
         </Routes>
       </BrowserRouter>
     </div>
