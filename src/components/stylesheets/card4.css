@@ -1,0 +1,25 @@
+.card4{
+    background-color: rgba(203, 165, 67, .1);
+}
+
+.frame{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 99.6px;
+    margin-right: 99.6px;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+@media(max-width: 1130px){
+    .frame{
+        flex-wrap: wrap-reverse;
+        margin: 0;
+        padding:0 24px;
+    }
+
+    .buttons{
+        margin: 20px 0px;
+    }
+}

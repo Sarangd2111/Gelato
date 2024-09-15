@@ -1,0 +1,21 @@
+.card3{
+    margin-left: 99.6px;
+    margin-right: 99.6px;
+    padding: 40px 16px;
+}
+
+.card3body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media(max-width: 1130px){
+    .card3body{
+        flex-wrap: wrap;
+    }
+    .card3{
+        margin:0;
+        padding:0 24px;
+    }
+}

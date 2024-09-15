@@ -1,0 +1,17 @@
+.card5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 99.6px;
+    margin-right: 99.6px;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+
+@media(max-width: 1130px){
+    .card5{
+        margin:0;
+        padding:0 24px;
+        flex-wrap: wrap;
+    }
+}

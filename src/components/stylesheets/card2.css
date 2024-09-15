@@ -1,0 +1,31 @@
+.card2{
+    background-color: rgba(203, 165, 67, .1);
+}
+
+.orderDetails{
+    margin-left: 99.6px;
+    margin-right: 99.6px;
+    padding:40px 16px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.details{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media(max-width: 1000px){
+    .orderDetails{
+        margin:0;
+        padding: 15px 0px;
+        flex-wrap: wrap;
+    }
+
+    .details{
+        padding: 15px 0px;
+    }
+}

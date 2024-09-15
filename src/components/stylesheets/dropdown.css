@@ -1,0 +1,34 @@
+.DropDown{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 15px;
+    transition: 0.1s;
+}
+
+.dropDownIcon{
+    margin-left: 10px;
+    height: 20px;
+}
+
+.DropDown:hover{
+    cursor: pointer;
+    background-color: rgb(241, 241, 241);
+    transition: 0.1s;
+}
+
+.dropdownMenu{
+    display: block;
+    text-align: left;
+    cursor: pointer;
+    position: absolute;
+    top: 160px;
+    z-index: 1;
+    background-color: white;
+    transition: 0.2s;
+    box-shadow: 8px 5px 200px 0px rgba(203, 165, 67, .1), 5px 5px 50px inset rgba(203, 165, 67, .1);
+}
+
+.dropdownMenu li{
+    padding: 8px;
+}

@@ -1,0 +1,55 @@
+.Button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 8px;
+
+}
+
+.dark{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    padding: 9px 15px;
+    border-radius: 50px;
+    transition: 0.1s;
+    font-weight: 500;
+}
+
+.light{
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    padding: 9px 15px;
+    border-radius: 50px;
+    border: none;
+    transition: 0.1s;
+    font-weight: 500;
+}
+
+.bordered{
+    border: 1px solid #212121;
+}
+
+.dark:hover{
+    color: grey;
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+.light:hover{
+    background-color: rgb(225, 224, 224);
+    cursor: pointer;
+    transition: 0.1s;
+}
+
+.buttonIcon{
+    height: 24px;
+    margin-right: 7px;
+}
