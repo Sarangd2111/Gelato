@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Gelato/static/css/main.aad01ee5.css",
+    "main.js": "/Gelato/static/js/main.672701f0.js",
+    "static/js/453.7c875655.chunk.js": "/Gelato/static/js/453.7c875655.chunk.js",
+    "static/media/download.gif": "/Gelato/static/media/download.d537d3dc19a54af060f4.gif",
+    "static/media/card1image.png": "/Gelato/static/media/card1image.f6a3b80ab179ae67f8a7.png",
+    "static/media/card3.gif": "/Gelato/static/media/card3.f48bb06d4a1a260c525c.gif",
+    "static/media/card2image.png": "/Gelato/static/media/card2image.ec815589635a7d5d094a.png",
+    "static/media/card5image.png": "/Gelato/static/media/card5image.9613165f2db726a696dc.png",
+    "static/media/instagram.png": "/Gelato/static/media/instagram.d6235575422d3fc0b5da.png",
+    "index.html": "/Gelato/index.html",
+    "main.aad01ee5.css.map": "/Gelato/static/css/main.aad01ee5.css.map",
+    "main.672701f0.js.map": "/Gelato/static/js/main.672701f0.js.map",
+    "453.7c875655.chunk.js.map": "/Gelato/static/js/453.7c875655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad01ee5.css",
+    "static/js/main.672701f0.js"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Gelato",
+  "short_name": "Gelato",
+  "lang": "en",
+  "start_url": "/",
+  "display": "browser",
+  "theme_color": "#000"
+}
